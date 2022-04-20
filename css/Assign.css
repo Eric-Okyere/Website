@@ -1,0 +1,87 @@
+.First{
+    height: 15vh;
+    background-color: orange;
+    
+    margin-top: 5vh;
+    width: 56vh;
+    margin-left: 3vh;
+}
+.Fir{
+    
+    display: flex;
+  
+}
+.Ft{
+    background-color:red;
+display: flex;
+margin: 10px;
+height: 125vh;
+width: 70vh;
+}
+.Ftt{
+    background-color: yellowgreen;
+display: flex;
+margin: 10px;
+height: 125vh;
+width: 70vh;
+}
+.su{
+    height: 120vh;
+    background-color: brown;
+    width: 100vh;
+    margin: 5px;
+}
+.subb{
+    height: 30vh;
+    background-color: yellow;
+    width: 48vh;
+    margin: 10px;
+
+}
+.subbc{
+    height: 22vh;
+    background-color: yellowgreen;
+    width: 48vh;
+   margin: 10px;
+    margin-top: 108px;
+}
+.subbcc{
+    height: 22vh;
+    background-color: green;
+    width: 48vh;
+   margin: 10px;
+    margin-top: 10px;
+}
+.vl{
+    height: 120vh;
+    background-color: peru;
+    width: 108vh;
+    margin: 5px;
+}
+.success{
+    height: 25vh;
+    background-color: aqua;
+    width: 105vh;
+    margin: 5px;
+    margin-top: 20vh;
+}
+.successa{
+    height: 25vh;
+    background-color: aqua;
+    width: 105vh;
+    margin: 5px;
+    margin-top: 30vh;
+}
+.footera{
+    height: 15vh;
+    background-color: orange;
+    margin: 5px;
+    margin-top: 1vh;
+    width: 172vh;
+    margin-left: 7vh;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+

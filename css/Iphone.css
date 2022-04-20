@@ -1,0 +1,270 @@
+
+.an{
+    max-width: 40vh;
+}
+
+.form-inline{
+    text-align: end;
+   
+}
+form{
+    display: flex;
+}
+.ima{
+    height: 7vh;
+    width: 10vh;
+}
+.form-inline{
+    padding-left: 80vh;
+}
+
+.App{
+ color: green;
+ font-style: italic;
+ font-weight: bold;
+}
+.buy{
+    color: green;
+ font-style: italic;
+ font-weight: bold;
+ padding-left: 20vh;
+}
+
+.dropdown{
+    padding-left: 95vh;
+    background: transparent;
+    padding-top: 15px;
+}
+
+.btn-secondary {
+    color: #1e7e34;
+    background-color: #f8f9fa;
+    border-color: #6c757d;
+    font-weight: bold;
+}
+
+.ro{
+    margin-top: 5px;
+    margin-right: 5px;
+   
+}
+
+
+.bg-light {
+    background-color: none;
+}
+
+.Nav{
+    margin-left: 25px;
+    width: 250vh;
+}
+
+.yt{
+    display: flex;
+}
+.Yoo{
+    height: 60vh;
+    width: 30vh;
+}
+
+i{
+    font-size: xx-large;
+}
+
+.fay{
+    background-color: #1e7e34;
+    margin: 3px;
+}
+.fay1{
+    background-color:blue;
+    margin: 3px;
+}
+
+.fa-2x {
+    font-size: 0px;
+}
+
+h6{
+    margin-left: 20px;
+    font-style: italic;
+    color: #1e7e34;
+}
+
+
+.fay11{
+    background-color: orange;
+    margin: 0px;
+   
+}
+
+.col-md-3{
+    margin: 5px;
+}
+.col-md-3 {
+    max-width: 40vh;
+}
+.img1{
+    width: 30vh;
+    margin: 5px solid black;
+    margin-top: 0px;
+    
+}
+
+table {
+    border-collapse: none;
+    margin-left: 10px;
+}
+.table {
+    width: 100%;
+    /* margin-bottom: 1rem; */
+    color: #1e7e34;
+}
+
+.xd{
+    height: 45vh;
+}
+
+.green {
+    border: 5px solid yellow;
+    height: 0px;
+    border-radius: 10px;
+    width: 2rem;
+    margin-top: 6px;
+    margin-left: 10vh;
+    
+}
+
+.am{
+    width: 30vh;
+    
+    
+}
+.in2{
+    width: 25vh;
+}
+
+.in22{
+    width: 25vh;
+    height: 45vh;
+}
+
+.in222{
+    width: 30vh;
+    height: 45vh;
+}
+
+
+.hp{
+    background-color: gainsboro;
+    border-radius: 20vh;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+}
+
+.Yam{
+    background-image: linear-gradient(to right, red,orange, green,blue,indigo,violet);
+    justify-content: center;
+    display: flex;
+    padding-top: 9px;
+    color: cyan;
+    font-weight: bolder;
+    height: 7vh;
+    
+}
+
+.stare{
+   
+    width: 30vh;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+a{
+    
+    font-weight: bolder;
+    color: orangered;
+}
+
+.fa-layers{
+    margin-left: 20px;
+}
+
+
+
+.in2221{
+    width: 32vh;
+    height: 45vh;
+}
+
+
+.bo{
+    display: flex;
+}
+
+hr{
+    background-color: yellow;
+    width: 7vh;
+    height: 1px;
+}
+
+.do{
+    background-color: black;
+    color: white;
+    width: 15vh;
+    display: flex;
+    justify-content: end;
+    padding-left: 15px;
+}
+.Pro{
+    color: #1e7e34;
+    
+}
+p{
+    color:  white;
+    background-color: black;
+    width: 15vh;
+    margin-left: 20vh;
+    margin-top: 5vh;
+    margin-bottom: 0%;
+}
+.Po0{
+    color:  white;
+    background-color: black;
+    width: 20vh;
+    margin-left: 20vh;
+    margin-top: 5vh;
+    margin-bottom: 0%;
+}
+
+.P111{
+    color:  white;
+    background-color: black;
+}
+
+
+.Po{
+    color:  white;
+    background-color: black;
+    width: 20vh;
+    margin-left: 20vh;
+    margin-top: 25vh;
+    margin-bottom: 0%;
+}
+.Po1{
+    color:  white;
+    background-color: black;
+    width: 20vh;
+    margin-left: 20vh;
+    margin-top: 45vh;
+    margin-bottom: 0%;
+}
+.Po11{
+    color:  white;
+    background-color: black;
+    width: 20vh;
+    margin-left: 20vh;
+    margin-top: 65vh;
+    margin-bottom: 0%;
+}
+

@@ -1,0 +1,106 @@
+.First{
+    background-color: transparent;
+    height: 15vh;
+    margin-top: 10px;
+    font-size: xx-large;
+    width: 5vh;
+    
+}
+
+.don{
+    background-color: aqua;
+    height: 13vh;
+    width: 169vh;
+    margin-top: 15px;
+    border-top: 1px solid black;
+   
+   padding-left: 160vh;
+    display: flex;
+    padding-top: 10px;
+}
+.seca{
+    background-color: transparent;
+    height: 16vh;
+    display: flex;
+}
+.sec{
+    background-color: gainsboro;
+    height: 15vh;
+}
+
+.man{
+    background-color: aqua;
+    height: 15vh;
+    width: 43vh;
+    border-top: 1px solid black;
+display: flex;
+justify-content: center;
+font-size: xx-large;
+padding-top: 10px;
+
+}
+.mann{
+    background-color: aqua;
+    height: 15vh;
+    width: 85.6vh;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+display: flex;
+justify-content: center;
+font-size: xx-large;
+}
+.Ac{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.man1{
+    background-color: aqua;
+    height: 15vh;
+    width: 43vh;
+    border-top: 1px solid black;;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    display: flex;
+justify-content: center;
+font-size: xx-large;
+padding-top: 10px;
+}
+.man11{
+    background-color:rgb(255, 94, 0);
+    height: 15vh;
+    width: 43vh;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    
+    display: flex;
+justify-content: center;
+font-size: xx-large;
+color: white;
+border-left: none;
+}
+.seca2{
+    background-color:transparent;
+    height: 15vh;
+    width: 20vh;
+    margin-top: 0px;
+    display: flex;
+    
+}
+.seca22{
+    background-color:transparent;
+    height: 15vh;
+    width: 20vh;
+    margin-top: 0px;
+    display: flex;
+    
+}
+.yes{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+.No{
+    border-left: 1px solid black;
+    padding-top: 10px;
+}

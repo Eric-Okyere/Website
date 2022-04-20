@@ -1,0 +1,81 @@
+body{
+    background-image: url(..//Yes.jpg);
+}
+
+.Cont{
+    display: flex;
+   
+ 
+}
+.contf{
+    background-color: antiquewhite;
+    border-bottom:  1px solid black;
+    font-size: xx-large;
+    color: red;
+    margin-top: 10vh;
+    border-top:  1px solid black;
+   
+}
+:hover{
+    color: blue;
+}
+
+h1{
+    padding-left: 155vh;
+    color: fuchsia;
+
+}
+
+
+.net{
+    background-color: red;
+    border-bottom:  1px solid black;
+    font-size: xx-large;
+    padding-left: 120px;
+    color: lawngreen;
+    background-image: url(..//5.jpg);
+}
+.mig{
+    padding-left: 23vh;
+}
+
+.Contaa{
+
+    background-color: aqua;
+    
+    
+   
+    
+}
+.cont{
+    background-color: aqua;
+    border-bottom:  1px solid black;
+    font-size: xx-large;
+    padding-left: 120px;
+    color: red;
+}
+.contb{
+    background-color: orangered;
+    border-bottom:  1px solid black;
+    border-left: 1px solid black;
+    font-size: xx-large;
+    padding-left: 120px;
+    color: white;
+}
+.cont1{
+    background-color: aqua;
+    border-bottom:  1px solid black;
+    border-left: 1px solid black;
+    font-size: xx-large;
+    padding-left: 120px;
+    color: yellow;
+}
+.Cont1a{
+    background-color: aqua;
+    width: 170vh;
+    margin-top: 10px;
+    border-bottom:  1px solid black;
+    border-top:  1px solid black ;
+    padding-left: 160vh;
+    font-size: xx-large;
+}

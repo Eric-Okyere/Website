@@ -1,0 +1,121 @@
+.bg-light {
+    background-color: #dc3545 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color: #f8f9fa;
+  
+}
+
+
+.carousel{
+    width: 200vh;
+    margin-top: 10px;
+    
+}
+.w-100{
+    height: 80vh;
+}
+
+
+
+
+
+
+
+
+.collapse{
+   padding-left: 140vh;
+   
+}
+
+
+
+.mr-sm-2{
+    padding-left: 20vh;
+}
+.form-inline{
+    padding-left: 57vh;
+}
+
+
+.cont2{
+    height: 80vh;
+   
+    display: flex;
+}
+.cont3{
+    display: flex;
+    justify-content: center;
+    padding-top: 25vh;
+}
+h2{
+    color: aqua;
+}
+
+.Za{
+    height: 40vh;
+    width: 40vh;
+}
+.wh{
+    padding-top: 25vh;
+   margin-left: 40vh;
+   font-style: italic;
+}
+
+
+
+.plan{
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+}
+.pl{
+    padding-left: 60vh;
+}
+
+.sub1{
+    background-color: aqua;
+  
+}
+.sub2{
+    background-color: gray;
+   
+}
+.for{
+    height: 70vh;
+    margin: 5px;
+}
+h1, h3{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.footer{
+    background-color: aqua;
+    padding-top: 15px;
+    display: flex;
+    height: 30vh;
+    width: 180vh;
+   
+}
+.fa-brands{
+    height: 20vh;
+    width: 20vh;
+    padding-top: 5vh;
+    font-size: xx-large;
+    
+}
+
+.fay{
+    padding-left: 35vh;
+}
+
+.fot{
+    font-style: italic;
+    padding-left: 20vh;
+}
